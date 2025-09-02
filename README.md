@@ -109,19 +109,19 @@ jupyter notebook notebook/Projeto\ ML1.ipynb
   ![Fig. 1](results/1.jpeg)
 
 - *Fig. 2* — ROC curve (example: `dataset_1061_ar4.csv`) · `results/2.png`  
-  ![Fig. 2](results/2.png)
+  ![Fig. 2](results/4.png)
 
 - *Fig. 3* — Correlation between minority proportion and F1-score · `results/4.png`  
-  ![Fig. 3](results/4.png)
+  ![Fig. 3](results/3.png)
 
 - *Fig. 4* — Confusion matrices (example: `dataset_1056_mc1.csv`) · `results/6.png`  
   ![Fig. 4](results/6.png)
 
 - *Figs. 5–8* — Comparisons per dataset: **Accuracy**, **Recall (Macro)**, **F1 (Macro)** and **AUC** · `results/8.jpeg`, `results/9.jpeg`, `results/10.jpeg`, `results/11.jpeg`  
-  ![Accuracy](results/8.jpeg)  
-  ![Recall](results/9.jpeg)  
-  ![F1](results/10.jpeg)  
-  ![AUC](results/11.jpeg)
+  ![Accuracy](results/8.png)  
+  ![Recall](results/9.png)  
+  ![F1](results/10.png)  
+  ![AUC](results/11.png)
 
 - *Fig. 9* — Global metrics summary table · `results/12.png`  
   ![Metrics summary](results/12.png)

@@ -112,7 +112,7 @@ jupyter notebook notebook/Projeto\ ML1.ipynb
   ![Fig. 2](results/4.png)
 
 - *Fig. 3* — Correlation between minority proportion and F1-score · `results/4.png`  
-  ![Fig. 3](results/3.png)
+  ![Fig. 3](results/2.png)
 
 - *Fig. 4* — Confusion matrices (example: `dataset_1056_mc1.csv`) · `results/6.png`  
   ![Fig. 4](results/6.png)

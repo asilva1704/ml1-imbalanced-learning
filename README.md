@@ -106,7 +106,7 @@ jupyter notebook notebook/Projeto\ ML1.ipynb
 
 **Representative figures (subset)**:
 - *Fig. 1* — F1-score of minority class across datasets · `results/1.jpeg`  
-  ![Fig. 1](results/1.jpeg)
+  ![Fig. 1](results/1.png)
 
 - *Fig. 2* — ROC curve (example: `dataset_1061_ar4.csv`) · `results/2.png`  
   ![Fig. 2](results/4.png)
